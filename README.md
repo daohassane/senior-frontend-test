@@ -32,7 +32,7 @@ The application should consist of the following:
 
 ## Requirements
 
-- Must be built in React. Specific Framework is your choice.
+- Must be built in Angular. Specific Framework is your choice.
 - SEO Friendly.
 - No need to worry about mobile here, that’s not what we’re evaluating.
 
